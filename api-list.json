@@ -1,23 +1,13 @@
 {
   "apis": [
     {
-      "url": "https://stalick8.bonto.run",
+      "token": "GwAVAhBWRkwMFwAEARdCCwwFBxtPABYCRg==",
       "start": 1,
-      "end": 8
+      "end": 15
     },
     {
-      "url": "https://stclick2.bonto.run",
-      "start": 9,
-      "end": 16
-    },
-    {
-      "url": "https://stlick3.bonto.run",
-      "start": 17,
-      "end": 24
-    },
-    {
-      "url": "https://stick4.bonto.run",
-      "start": 25,
+      "token": "GwAVAhBWRkwYBxUTEQ8FCghFERsPBgxCGxYFXA==",
+      "start": 16,
       "end": 31
     }
   ]
